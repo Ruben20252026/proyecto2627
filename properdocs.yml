@@ -1,1 +1,22 @@
-site_name: My Docs
+site_name: "Proyecto Intermodular"
+site_description: "Proyecto Intermodular del Ciclo Formativo de Desarrollo de aplicaciones Web"
+site_author: "Alumno DAW - IES Los Albares"
+
+# Selección del tema Read the Docs
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - php
+    - bash
+    - json
+    - html
+
+# Estructura de navegación lateral
+nav:
+  - Inicio: index.md
+
+# Opciones adicionales
+markdown_extensions:
+  - tables
+  - codehilite

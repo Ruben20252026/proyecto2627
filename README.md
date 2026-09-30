@@ -14,8 +14,8 @@ Lo que debe salir:
 
 2. _GitHub CLI instalado y configurado (gh auth status)_
 
-Lo que debería salir: 
-
+Github CLI lo tengo instalado y configurado perfectamente. Lo que debería salir es esto:
+ 
 ![Git_cliente configurado](assets\git_cliente.png)
 
 3. _Herd instalado con la versión de PHP 8.4_

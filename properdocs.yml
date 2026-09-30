@@ -15,6 +15,7 @@ theme:
 # Estructura de navegación lateral
 nav:
   - Inicio: index.md
+  - BLOQUE 1: practica01.md
 
 # Opciones adicionales
 markdown_extensions:
